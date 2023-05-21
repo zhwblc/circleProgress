@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "uniapp-devtool-launcher-webpack-plugin": "^1.0.2"
+  }
+}
